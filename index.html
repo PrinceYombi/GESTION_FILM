@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion des Films</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="film-content">
+            <div class="title-film">
+                <h2>Choisir votre top 2 dans le catalogue</h2>
+            </div>
+            <div class="film">
+                <div class="top-2" id="selection">
+                    <div class="top-title">
+                        Mon top 2
+                    </div>
+                    <div class="top" id="select-1"><span class="">1</span></div>
+                    <div class="top" id="select-2"><span class="">2</span></div>
+                </div>
+                <div class="catalogue" id="catalogue">
+                    <form action="">
+                        <input type="search" name="filter" id="filter" placeholder="filtrer les films">
+                        <div class="details-box">
+                            <label for="">Afficher les details ?</label>
+                            <input type="checkbox" name="checkbox" id="checkDetail" checked>
+                        </div>
+                    </form>
+                    <div class="film-items" id="films">
+                       <!--Inclure les films-->
+                    </div>
+                    <div class="film-details">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script type="module" src="assets/js/main.js"></script>
+</body>
+
+</html>
