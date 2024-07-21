@@ -1,32 +1,13 @@
-UTILISATION DE L'APPLICATION
+UTILISATION DE L'APPLICATION LIGHT FILMS
 
- - Vous avez un catalogue de films que vous pouvez parcourir par la barre de defilement
+    - Le bouton ajouter un film permet de derouler ou cacher les champs permettant l'ajout d'un film
 
- - il y'a un champs filtrer les films, qui permet de filtrer les films par leurs titres
+    - Pour ajouter un film vous devez remplir les champs puis cliquer sur ajouter
 
- - Un champs à cocher ou décocher, qui permet d'afficher ou non le block des details
+    - Une liste des films est affichée permettant la gestion des films à l'aide des boutons Modifier et supprimer
 
- - En survolant un film, vous pouvez lire les details sur ce film
+    - Le bouton modifier vous permet de mettre à jour un film
 
- - La partie Mon top 2 permet d'inclure au maximum 2 films choisis dans le catalogue
+    - Le bouton supprimer permet alors de supprimer un film
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - Une barre de recherche vous permet de filtrer les films par titre, realisateur, année et genre.
